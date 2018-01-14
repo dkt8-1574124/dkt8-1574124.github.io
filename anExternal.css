@@ -1,0 +1,38 @@
+body {
+	background:rgb(40,55,70);
+	font-family: Consolas, Arial;
+	font-weight: normal;
+}
+
+h1, h2 {
+	border-bottom: 1px solid black;
+	color: yellowgreen;
+}
+
+a {
+	color: deeppink;
+	front-size: 25px;
+}
+
+p {
+	color: white;
+	background: coral;
+	padding: 10px;
+}
+
+.secondary {
+	color: khaki;
+	background: #eee;
+}
+
+img {
+	float: left;
+	margin: 10px;
+}
+
+.rounded-box {
+	background-color: mediumpurple;
+	width:560px;
+	height:315px;
+	border-radius:50px;
+}
