@@ -1,3 +1,16 @@
+div {
+	position: fixed;
+	border-color:black;
+	border-style:dash;
+	border-width: 1px;
+	height: 10px;
+	width: 10px;
+	margin: 0px auto;
+	padding: 8px;
+	color: #333;
+}
+
+
 body {
 	background:rgb(40,55,70);
 	font-family: Consolas, Arial;
@@ -9,7 +22,13 @@ h1, h2 {
 	color: yellowgreen;
 }
 
+
+
 a {
+	color: deeppink;
+	front-size: 25px;
+}
+legend {
 	color: deeppink;
 	front-size: 25px;
 }
