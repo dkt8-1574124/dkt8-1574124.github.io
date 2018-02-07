@@ -36,8 +36,13 @@
 	list-style-type: none;
  }
  
- div{
+.form-group{
 	background-color: #8E41D5;
+	border-color:black;
+	border-style:dash;
+	border-width: 1px;
+	margin: 0px auto;
+	padding: 8px;
  }
  
  p{
@@ -72,11 +77,16 @@
 	color:#FFBC00;
  }
  
- body{
-	background-image: url(dark_wood.png);
- }
- 
- 
+body {
+	background:rgb(40,55,70);
+	font-family: Consolas, Arial;
+	font-weight: normal;
+}
+.container {
+	background:rgb(40,55,70);
+	font-family: Consolas, Arial;
+	font-weight: normal;
+} 
  
  h1, h2 {
 	border-bottom: 1px solid black;
@@ -87,21 +97,53 @@ a {
 	color: deeppink;
 	front-size: 25px;
 }
+.leg {
+	color: deeppink;
+	front-size: 25px;
+}
+
 
 p {
 	color: white;
 	background: coral;
 	padding: 10px;
 }
- 
-body {
-	background:rgb(40,55,70);
-	font-family: Consolas, Arial;
-	font-weight: normal;
-}
- 
+
 img {
 	float: left;
 	margin: 10px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
